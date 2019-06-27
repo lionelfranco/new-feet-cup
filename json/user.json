@@ -1,0 +1,10 @@
+{
+    "user":[
+        {
+            "name":"laodeus",
+            "github" : "http://www.github.com/laodeus",
+            "password":"gnagnagna",
+            "accountType":"admin"
+        }
+    ]
+}

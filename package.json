@@ -1,0 +1,16 @@
+{
+    "name": "newfeetcup",
+    "version": "0.1.0",
+    "description": "Tool for the new-feet Cup.",
+    "author": {
+        "Jonathan Atta": "atta.jon.t@hotmail.com",
+        "Lionel Franco": "jeSaisPas@bhoooo.prout",
+        "pierre wincker": "jeSaisPasNonPlus@bhoooo.prout"
+    },
+    "dependencies": {
+        "express": "~4.11.0",
+        "ejs": "~2.1.4",
+        "cookie-session": "~1.1.0",
+        "body-parser": "~1.10.1"
+    }
+}
